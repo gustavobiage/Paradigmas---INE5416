@@ -1,0 +1,17 @@
+###Lista de problema solucionados
+
+* [x] A - Esfera (1011)
+* [x] B - Consumo (1018)
+* [x] C - Distância Entre Dois Pontos (1015)
+* [x] D - Cédulas (1018)
+* [x] E - Criptografia (1024)
+* [x] F - Divisão da Nlogônia(1091)
+* [x] G - Experiências (1094)
+* [x] H - Alarme Despertador (1103)
+* [x] I - Leitura Ótica (1129)
+* [x] J - Og (1387)
+* [x] K - Bits Trocados (2187)
+* [x] L - Pneu (2374)
+* [x] M - Pulo do Sapo (2392)
+* [x] N - Receita de Bolo (2423)
+* [x] O - Tira-teima (2424)
